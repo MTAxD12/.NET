@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrei\\Desktop\\.NET\\Lab2(am facut proj manager din greseala)\\Lab2\\Lab2.csproj": {}
+    "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\Lab 3\\Lab 3\\Lab 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrei\\Desktop\\.NET\\Lab2(am facut proj manager din greseala)\\Lab2\\Lab2.csproj": {
+    "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\Lab 3\\Lab 3\\Lab 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrei\\Desktop\\.NET\\Lab2(am facut proj manager din greseala)\\Lab2\\Lab2.csproj",
-        "projectName": "Lab2",
-        "projectPath": "C:\\Users\\Andrei\\Desktop\\.NET\\Lab2(am facut proj manager din greseala)\\Lab2\\Lab2.csproj",
+        "projectUniqueName": "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\Lab 3\\Lab 3\\Lab 3.csproj",
+        "projectName": "Lab 3",
+        "projectPath": "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\Lab 3\\Lab 3\\Lab 3.csproj",
         "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrei\\Desktop\\.NET\\Lab2(am facut proj manager din greseala)\\Lab2\\obj\\",
+        "outputPath": "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\Lab 3\\Lab 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
