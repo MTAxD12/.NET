@@ -1,0 +1,13 @@
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.sourcelink.json
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\bin\Debug\net9.0\ProductManagement.Domain.deps.json
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\bin\Debug\net9.0\ProductManagement.Domain.dll
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\bin\Debug\net9.0\ProductManagement.Domain.pdb
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.dll
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\refint\ProductManagement.Domain.dll
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.pdb
+C:\Users\Andrei\Desktop\An3\.NET\ProductManagement\ProductManagement.Domain\obj\Debug\net9.0\ref\ProductManagement.Domain.dll
