@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {}
+    "C:\\Users\\Andrei\\Desktop\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+    "C:\\Users\\Andrei\\Desktop\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Andrei\\Desktop\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
         "projectName": "ProductManagement.Domain",
-        "projectPath": "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\Andrei\\Desktop\\.NET\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrei\\Desktop\\An3\\.NET\\ProductManagement\\ProductManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Andrei\\Desktop\\.NET\\ProductManagement\\ProductManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[15.0.1, )"
+              "version": "[12.0.1, )"
             }
           },
           "imports": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

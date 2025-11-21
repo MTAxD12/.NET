@@ -13,7 +13,7 @@ namespace ProductManagement.Domain.DTO
         public string CategoryDisplayName { get; set; } = string.Empty;
 
         public decimal Price { get; set; }
-        public string FormattedPrice => $"{Price:C}";
+        public string FormattedPrice { get; set; } = string.Empty;
 
         public DateTime ReleaseDate { get; set; }
         public DateTime CreatedAt { get; set; }
@@ -23,13 +23,10 @@ namespace ProductManagement.Domain.DTO
         public bool IsAvailable { get; set; }
         public int StockQuantity { get; set; }
 
-        public string ProductAge => $"{(DateTime.Now - ReleaseDate).Days / 365} years old";
+        public string ProductAge { get; set; } = string.Empty;
 
-        public string BrandInitials =>
-            string.Join("", Brand.Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                    .Select(b => b[0]))
-                .ToUpper();
+        public string BrandInitials { get; set; } = string.Empty;
 
-        public string AvailabilityStatus => IsAvailable ? "In Stock" : "Out of Stock";
+        public string AvailabilityStatus { get; set; } = string.Empty;
     }
 }

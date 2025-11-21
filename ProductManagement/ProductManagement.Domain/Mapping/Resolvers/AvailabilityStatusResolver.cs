@@ -4,13 +4,11 @@ namespace ProductManagement.Domain.Mapping.Resolvers
     {
         public static string Resolve(bool isAvailable, int stock)
         {
-            if (!isAvailable)
+            if (!isAvailable || stock <= 0)
                 return "Out of Stock";
-            if (stock <= 0)
-                return "Unavailable";
             if (stock == 1)
                 return "Last Item";
-            if (stock <= 5)
+            if (stock <= 10)
                 return "Limited Stock";
 
             return "In Stock";
